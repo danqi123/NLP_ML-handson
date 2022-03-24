@@ -7,3 +7,6 @@ https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+(Drugs.com)
 
 ## Download Data
 Store the data in the folder, and refer to **constant.py**
+
+## illustration of BERT model
+https://albertauyeung.github.io/2020/06/19/bert-tokenization.html/
